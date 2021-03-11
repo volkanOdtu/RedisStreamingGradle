@@ -1,0 +1,8 @@
+
+v	java:S116"URename this field "MOVIE_LIST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èÂ¡êúÿÿÿÿ8”ÉòÉ/
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(èÂ¡êúÿÿÿÿ8”ÉòÉ/
+i
+java:S1192"LDefine a constant instead of duplicating this literal "Warner Bros" 8 times.(²°³8”ÉòÉ/
+:
+java:S2119/"Save and re-use this "Random".(¼İÅf8”ÉòÉ/
